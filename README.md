@@ -16,7 +16,7 @@ This program numerically integrates and visualizes chaotic dynamical systems (Lo
 </p>
 
 <p align="center">
-  <img src="assets/Rösler.jpeg" width="420"/>
+  <img src="assets/Rössler.jpeg" width="420"/>
 </p>
 
 <p align="center">
