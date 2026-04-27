@@ -10,3 +10,15 @@ This program numerically integrates and visualizes chaotic dynamical systems (Lo
 <p align="center">
   <img src="assets/Dadras.jpeg" width="420"/>
 </p>
+
+<p align="center">
+  <img src="assets/Dadras2.jpeg" width="420"/>
+</p>
+
+<p align="center">
+  <img src="assets/Rösler.jpeg" width="420"/>
+</p>
+
+<p align="center">
+  <img src="assets/Rösler2.jpeg" width="420"/>
+</p>
